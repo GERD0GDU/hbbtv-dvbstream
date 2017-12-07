@@ -19,6 +19,7 @@ It is composed of tree files:
 * [ffmpeg](http://ffmpeg.org)
 * [opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster)
 * [python](https://www.python.org)
+* [dvbinspector](https://sourceforge.net/projects/dvbinspector/)
 
 ## Related Projects
 
