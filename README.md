@@ -23,8 +23,8 @@ It is composed of tree files:
 
 ## Related Projects
 
-[EBU Cross-Platform Authentication project](http://tech.ebu.ch/cpa)
-[ebu-hbbtv-dvbstream](https://github.com/ebu/hbbtv-dvbstream)
+* [EBU Cross-Platform Authentication project](http://tech.ebu.ch/cpa)
+* [ebu-hbbtv-dvbstream](https://github.com/ebu/hbbtv-dvbstream)
 
 
 ## Contributors
