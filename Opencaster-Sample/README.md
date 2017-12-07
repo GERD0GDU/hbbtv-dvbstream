@@ -1,5 +1,5 @@
-Opencaster-Sample
-=================
+Opencaster-Sample (Adapted for Windows)
+=======================================
 
 OpenCaster is a free and open source MPEG2 transport stream data generator and packet manipulator.
 
