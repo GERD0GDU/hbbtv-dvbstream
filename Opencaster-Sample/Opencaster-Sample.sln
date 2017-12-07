@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "src\esaudio2pes", "src\esaudio2pes\esaudio2pes.vcxproj", "{CFA46134-D217-4671-9DA2-B81C35CA65F2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "src\esvideompeg2pes", "src\esvideompeg2pes\esvideompeg2pes.vcxproj", "{2C2526E2-7E6A-482E-A622-FDAD6AE22E17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "src\pesaudio2ts", "src\pesaudio2ts\pesaudio2ts.vcxproj", "{A6CEA662-0304-4192-8B12-1DD1CF00CA73}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "src\pesvideo2ts", "src\pesvideo2ts\pesvideo2ts.vcxproj", "{DF27871A-5E88-4E27-A3CB-DC3020CD310A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "src\sec2ts", "src\sec2ts\sec2ts.vcxproj", "{574C1547-3D55-4EF8-AD70-2F510B07A8F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "src\tscbrmuxer", "src\tscbrmuxer\tscbrmuxer.vcxproj", "{BAB59E60-E55A-4361-8A5E-38359E463889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA46134-D217-4671-9DA2-B81C35CA65F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFA46134-D217-4671-9DA2-B81C35CA65F2}.Debug|Win32.Build.0 = Debug|Win32
+		{CFA46134-D217-4671-9DA2-B81C35CA65F2}.Release|Win32.ActiveCfg = Release|Win32
+		{CFA46134-D217-4671-9DA2-B81C35CA65F2}.Release|Win32.Build.0 = Release|Win32
+		{2C2526E2-7E6A-482E-A622-FDAD6AE22E17}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C2526E2-7E6A-482E-A622-FDAD6AE22E17}.Debug|Win32.Build.0 = Debug|Win32
+		{2C2526E2-7E6A-482E-A622-FDAD6AE22E17}.Release|Win32.ActiveCfg = Release|Win32
+		{2C2526E2-7E6A-482E-A622-FDAD6AE22E17}.Release|Win32.Build.0 = Release|Win32
+		{A6CEA662-0304-4192-8B12-1DD1CF00CA73}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6CEA662-0304-4192-8B12-1DD1CF00CA73}.Debug|Win32.Build.0 = Debug|Win32
+		{A6CEA662-0304-4192-8B12-1DD1CF00CA73}.Release|Win32.ActiveCfg = Release|Win32
+		{A6CEA662-0304-4192-8B12-1DD1CF00CA73}.Release|Win32.Build.0 = Release|Win32
+		{DF27871A-5E88-4E27-A3CB-DC3020CD310A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF27871A-5E88-4E27-A3CB-DC3020CD310A}.Debug|Win32.Build.0 = Debug|Win32
+		{DF27871A-5E88-4E27-A3CB-DC3020CD310A}.Release|Win32.ActiveCfg = Release|Win32
+		{DF27871A-5E88-4E27-A3CB-DC3020CD310A}.Release|Win32.Build.0 = Release|Win32
+		{574C1547-3D55-4EF8-AD70-2F510B07A8F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{574C1547-3D55-4EF8-AD70-2F510B07A8F5}.Debug|Win32.Build.0 = Debug|Win32
+		{574C1547-3D55-4EF8-AD70-2F510B07A8F5}.Release|Win32.ActiveCfg = Release|Win32
+		{574C1547-3D55-4EF8-AD70-2F510B07A8F5}.Release|Win32.Build.0 = Release|Win32
+		{BAB59E60-E55A-4361-8A5E-38359E463889}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAB59E60-E55A-4361-8A5E-38359E463889}.Debug|Win32.Build.0 = Debug|Win32
+		{BAB59E60-E55A-4361-8A5E-38359E463889}.Release|Win32.ActiveCfg = Release|Win32
+		{BAB59E60-E55A-4361-8A5E-38359E463889}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
