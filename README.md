@@ -2,7 +2,7 @@ hbbtv-dvbstream
 ===============
 
 This project contains some scripts to generate a transport stream using FFMpeg and Opencaster which triggers HbbTV portals on a TV. 
-The stream can be played using [vlc player](https://www.videolan.org/) and Dektec streamXpress.
+The stream can be played using [vlc player](https://www.videolan.org/) and [Dektec streamXpress](https://www.dektec.com/products/applications/StreamXpress/).
 
 It is composed of tree files:
 
